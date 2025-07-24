@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Thao (also, T.K.)
-- 👀 I’m interested in mathematical modelling 
-- 🌱 I’m currently learning many things ^_^
-- 📫 You can reach me on twitter at [🐦ThaoPLeTK](https://twitter.com/ThaoPLeTK)
+- 👋 Hi, I’m TK
+- ⛏️ I make mathematical models
 
 <!---
 thaopletk/thaopletk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
